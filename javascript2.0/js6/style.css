@@ -1,0 +1,48 @@
+.article{
+    border: 2px dashed gray;
+    border-radius: 20px;
+    width: 50%;
+    padding: 10px;
+    background-color: rgb(225, 189, 29);
+    color: white;
+    font-family: 'Segoe UI','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:20px;
+}
+.article:hover{
+    box-shadow: 0px 0px 10px 2px gray;
+}
+
+.main{
+    width: 80%;
+    margin-left: 10%;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.167);
+    padding: 20px 40px;
+    
+}
+.body{
+    background-image: url(https://img.freepik.com/free-vector/paper-style-white-monochrome-background_52683-66443.jpg);
+    background-size: 100%;
+    background-position: fixed;
+}
+.title{
+    border-left: 2px solid whitesmoke;
+    border-bottom: 2px solid whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
+.text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+a{
+    text-decoration: aliceblue;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+    background-color: rgba(169, 169, 169, 0.461);
+    padding: 6px;
+    border-radius: 5px;
+}

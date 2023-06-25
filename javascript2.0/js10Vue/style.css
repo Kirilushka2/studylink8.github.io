@@ -1,0 +1,4 @@
+.merezi,.phone{
+    display:flex;
+    flex-wrap:wrap;
+}
